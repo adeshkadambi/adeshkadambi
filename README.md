@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adeshkadambi a PhD candidate in Biomedical Engineering!
 - 👀 I’m interested in applying machine learning and AI to healthcare.
-- 🌱 I’m currently learning Vertex AI / GCP and React.
+- 🌱 I’m currently learning ML Ops.
 - 💞️ I’m looking to collaborate on data-driven healthcare startup ideas!
 - 📫 You can reach me at: adesh.kadambi@mail.utoronto.ca
 
