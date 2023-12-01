@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adeshkadambi a PhD candidate in Biomedical Engineering!
 - 👀 I’m interested in applying human factors and AI to healthcare.
-- 💞️ I’m looking to collaborate on data-driven healthcare startup ideas!
+- 💞️ I’m looking to collaborate on data-driven startup ideas!
 - 📫 You can reach me at: adesh.kadambi@mail.utoronto.ca
 
 <!---
